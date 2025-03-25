@@ -1,4 +1,4 @@
-# Azure Cognitive Search: Configuração de Pesquisa Inteligente com AI Search
+# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 A utilização do Azure Cognitive Search com AI Search permite aprimorar a busca de dados com o poder da inteligência artificial.
 
