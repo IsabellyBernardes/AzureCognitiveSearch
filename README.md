@@ -1,6 +1,6 @@
 # Azure Cognitive Search: Configuração de Pesquisa Inteligente com AI Search
 
-A utilização do Azure Cognitive Search com AI Search permite aprimorar a busca de dados com o poder da inteligência artificial. Neste tutorial, vamos explorar o processo de configuração dessa ferramenta, os insights gerados e como outras ferramentas podem se beneficiar desse tipo de tecnologia.
+A utilização do Azure Cognitive Search com AI Search permite aprimorar a busca de dados com o poder da inteligência artificial.
 
 ## Passo 1: Criando e Configurando um Recurso de Azure Cognitive Search
 ### Acessando o Portal Azure
